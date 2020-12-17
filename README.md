@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<!--
-**AlissonLewinski/alissonlewinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é Alisson, tenho 17 anos e sou desenvolvedor Full Stack iniciante.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🎓 Formação: Técnico em Desenvolvimento de Sistemas - SENAI (2019-2020), Ensino Médio completo
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💻 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, React.js, Vue.js, PostgreSQL
+</p>
+
+<p align="left">
+  💼 Ferramentas: Visual Studio Code, Eclipse IDE, Postman, pgAdmin4
+</p>
+
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-lewinski-b93009198/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541997089802"/></a>
+</p>
