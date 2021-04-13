@@ -1,19 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/AlissonLewinski/alissonlewinski/main/img/rocks_purple%3F.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Meu nome é Alisson, tenho 17 anos e sou desenvolvedor Full Stack iniciante.
-</p>
-
-<p align="left">
-  🎓 Formação: Técnico em Desenvolvimento de Sistemas - SENAI (2019-2020), Ensino Médio completo
-</p>
-
-<p align="left">
-  💻 Habilidades: HTML5, CSS3, JavaScript, Bootstrap, React.js, Vue.js, PostgreSQL
-</p>
-
-<p align="left">
-  💼 Ferramentas: Visual Studio Code, Eclipse IDE, Postman, pgAdmin4
+  Meu nome é Alisson, tenho 17 anos e sou programador.
 </p>
 
 <p align="left">
