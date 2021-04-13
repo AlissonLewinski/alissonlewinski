@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/AlissonLewinski/alissonlewinski/main/img/rocks_purple%3F.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Meu nome é Alisson, tenho 17 anos e sou programador.
+  Hey! Meu nome é Alisson, tenho 17 anos e sou programador na Tunts
 </p>
-
+<p>| Javascript, Ruby, Java</p>
+<p>| Vue, Angular</p>
+<p>| Express, Rails</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/alissonlewinski/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonlewinski/"/>
