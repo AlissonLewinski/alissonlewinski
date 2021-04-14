@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlissonLewinski/alissonlewinski/main/img/rocks_purple%3F.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/AlissonLewinski/alissonlewinski/main/img/rocks_purple%3F.png" width="350px" align="right" alt="tunts.rocks">
 
 <p align="left"> 
   Hey! Meu nome é Alisson, tenho 17 anos e sou programador na Tunts
